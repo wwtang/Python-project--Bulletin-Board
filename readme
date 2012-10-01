@@ -1,0 +1,8 @@
+Name: Bulletin Board python cgi project.
+from book Python from novice to professional.
+
+In this project I used mysql as backend database.
+
+Uasge:
+deposit all the files into your cgi-bin directory and grant them with permissions,
+and visit 'localhost/cgi-bin/main.cgi' in your browser. This programme should works well.
